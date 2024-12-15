@@ -4,6 +4,7 @@ import Header from '@/components/header';
 import Landing from '@/components/landing';
 import Features from '@/components/features';
 import Footer from '@/components/footer';
+import Flowchart from '@/components/flowchart';
 
 export default function Home() {
   const [mounted, setMounted] = useState(false);
@@ -18,6 +19,7 @@ export default function Home() {
       <Header />
       <Landing />
       <Features />
+      <Flowchart/>
       <Footer/>
     </div>
   );
