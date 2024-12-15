@@ -1,5 +1,7 @@
 "use client";
 import { useEffect, useState } from 'react';
+import Header from '@/components/header';
+
 export default function Home() {
   const [mounted, setMounted] = useState(false);
   useEffect(() => {
@@ -10,7 +12,7 @@ export default function Home() {
   }
   return (
     <div>
-      Hi
+      <Header />
     </div>
   );
 }
