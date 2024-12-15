@@ -6,11 +6,11 @@ const Flowchart = () => {
       <h2 className="text-4xl font-bold text-center space_grotesk text-[#001427ff]">Workflow</h2>
       <div className="mt-8 text-center">
         <Image
-          src="/flowchart.jpg"
+          src="/flowchart.png"
           alt="Solution Flowchart"
-          width={800}
-          height={400}
-          className="mx-auto rounded-lg shadow-lg"
+          width={1200}
+          height={600}
+          className="mx-auto rounded-lg shadow-lg p-4 bg-[#f4f4f4]"
         />
       </div>
     </section>
