@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import Header from '@/components/header';
 import Landing from '@/components/landing';
 import Features from '@/components/features';
+import Footer from '@/components/footer';
 
 export default function Home() {
   const [mounted, setMounted] = useState(false);
@@ -17,6 +18,7 @@ export default function Home() {
       <Header />
       <Landing />
       <Features />
+      <Footer/>
     </div>
   );
 }
