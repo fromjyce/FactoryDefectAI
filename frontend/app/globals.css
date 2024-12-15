@@ -19,3 +19,11 @@
     --foreground: #f4f4f4;
   }
 }
+
+.poppins {
+  font-family: var(--font-poppins);
+}
+
+.space_grotesk {
+  font-family: var(--font-space-grotesk);
+}
