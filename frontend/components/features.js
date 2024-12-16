@@ -48,7 +48,7 @@ const Features = () => {
         <h2 className="text-4xl font-bold text-center space_grotesk text-[#001427ff]">Key Features</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-8">
           {features.map((feature, index) => (
-            <div key={index} className="bg-[#f4f4f4] p-6 rounded-lg shadow-lg text-center">
+            <div key={index} className="bg-[#f4f4f4] p-6 rounded-lg shadow-lg text-center transform transition-all duration-300 hover:scale-105 hover:shadow-xl">
               <div className="relative w-full h-40">
                 <Image
                   src={feature.imgSrc}
