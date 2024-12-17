@@ -43,7 +43,7 @@ FactoryDefectAI detects **surface and internal defects** in real time using:
 
 ## **Architecture**
 
-![Solution Flowchart](path-to-your-flowchart-image.png)
+![image](https://github.com/user-attachments/assets/cd2a208b-a933-45b9-b2a6-ac9f1a0f92ab)
 
 ### **Workflow**:
 1. **Image Capture**: Multi-angle image collection using high-resolution cameras.
@@ -142,7 +142,7 @@ If you come across any issues, have suggestions for improvement, or want to disc
 
 ## License
 
-All the code and resources in this repository are licensed under the MIT License. You are free to use, modify, and distribute the code under the terms of this license. However, I do not take responsibility for the accuracy or reliability of the programs.
+All the code and resources in this repository are licensed under the  GNU GENERAL PUBLIC LICENSE. You are free to use, modify, and distribute the code under the terms of this license. However, I do not take responsibility for the accuracy or reliability of the programs.
 
 ## Social Profiles:
 
