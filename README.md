@@ -87,8 +87,8 @@ FactoryDefectAI detects **surface and internal defects** in real time using:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/factorydefectai.git
-   cd factorydefectai
+   git clone https://github.com/fromjyce/FactoryDefectAI.git factorydefectai
+   cd factorydefectai && cd frontend
    ```
 
 2. **Install Dependencies**:
